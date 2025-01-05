@@ -1,0 +1,21 @@
+Algorithms Used  
+• Linear Regression: A simple regression algorithm that fits a linear equation to model 
+the relationship between the target and features.  
+• Random Forest Regressor: a technique for ensemble learning that reduces overfitting 
+and increases prediction accuracy by combining the predictions of several decision 
+trees. 
+Results of Comparison 
+After the algorithms were implemented, we got the metric results. Here are the results: 
+Linear Regression- MSE: 7.3200, MAE: 1.8927, R2: 0.9189 
+Random Forest- MSE: 9.8593, MAE: 2.3094, R2: 0.8907 
+Time Results: 
+Linear Regression-Execution time: 0.0297 seconds 
+Random Forest-Execution time: 7.0714 seconds 
+Memory Usage- 
+Linear Regression-0.0016 MB 
+Random Forest- 0.1256 MB 
+In conclusion, the Environmental Pollution Prediction problem is a supervised 
+learning and a regression problem. After the implementation of Random Forest and 
+Linear Regression algorithms, it was observed that linear regression is a more logical 
+solution to this problem. Linear regression has lower errors and higher scores, requires 
+low storage, and works fast. Linear Regression is the better solution for this problem.
